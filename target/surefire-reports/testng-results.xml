@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-02T15:15:07Z" name="antoine.Mavenjava.Test2" finished-at="2022-06-02T15:15:07Z" duration-ms="28">
+    <groups>
+    </groups>
+    <test started-at="2022-06-02T15:15:07Z" name="Command line test" finished-at="2022-06-02T15:15:07Z" duration-ms="28">
+      <class name="antoine.Mavenjava.Test2">
+        <test-method signature="test()[pri:0, instance:antoine.Mavenjava.Test2@460d0a57]" started-at="2022-06-02T17:15:07Z" name="test" finished-at="2022-06-02T17:15:07Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- antoine.Mavenjava.Test2 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- antoine.Mavenjava.Test2 -->
+</testng-results>
